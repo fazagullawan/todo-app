@@ -24,3 +24,4 @@ function addTask() {
 function deleteTask(button) {
     button.parentElement.remove();
 }
+let x = ;
